@@ -20,3 +20,5 @@ Escalar horizontalmente -> aumentar número de recursos
 Iaas -> Responsabilidade maior do cliente (ingredientes crus de uma pizza)
 Paas -> Responsabilidade intermediária (pizza congelada)
 Saas -> Responsabilidade maior da empresa provedora (delivery)
+
+![Descrição da imagem](./imagens/ec2-ebs.png)
