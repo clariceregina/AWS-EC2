@@ -21,4 +21,12 @@ Iaas -> Responsabilidade maior do cliente (ingredientes crus de uma pizza)
 Paas -> Responsabilidade intermediária (pizza congelada)
 Saas -> Responsabilidade maior da empresa provedora (delivery)
 
-![Descrição da imagem](./imagens/ec2-ebs.png)
+EC2 + EBS
+
+![EC2 com EBS](./ec2-ebs.png)
+
+---
+
+S3 + Lambda
+
+![S3 com Lambda](./s3-lambda.png)
