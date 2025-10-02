@@ -1,6 +1,7 @@
 # AWS-EC2
 Repositório criado como parte da avaliação do curso sobre AWS (Santander Code Girls) - módulo AWS-EC2
 
+Anotações:
 EC2 -> VM
 
 EBS -> Armazenamento; "HD externo"; snapshot dos volumes
